@@ -5,7 +5,7 @@ Arquivo: `/CasosDeTeste/login-case-teste-negativo.md`
 
 | ID | Cenário | Pré-condições | Passos | Resultado Esperado | Resultado Obtido | Prioridade |
 | --- | --- | --- | --- | --- | --- | --- |
-| TC00002 | Não entrar | Login falhar | 1. Passo | Não logar | Não logou | Alta |
+| TC00002 | Não entrar | Login falhar | 1. Passo | Não logar | Não logou | Alta|
 
 ### Padrão BDD
 
@@ -23,6 +23,6 @@ Então apresenta a feedback de usuário não cadastrado
 ```
 
 Adicionar evidência: Link, Curl ,print ou vídeo (se aplicável)
-![feedback](evidencias-testes/login-invalido.png)
+![login invalido](evidencias-testes/evidencia-login-invalido.png)
 Link: https://qa.navega.com.vc/login
 ---

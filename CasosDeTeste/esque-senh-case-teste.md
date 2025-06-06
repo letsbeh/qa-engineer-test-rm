@@ -22,6 +22,6 @@ Então recebo no e-mail para recuperar senha
 ```
 
 Adicionar evidência: Link, Curl ,print ou vídeo (se aplicável)
-![Evidência Esqueceu a senha](image-1.png)
-![Evidência recuperar senha preenchimento do e-mail](image-2.png)
+![botao esqeueceu senha](evidencias-testes/evidencia-botao-esqueceu-senha.png)
+![esqueci senha](evidencias-testes/evidencia-esqueci-senha.png)
 ---
