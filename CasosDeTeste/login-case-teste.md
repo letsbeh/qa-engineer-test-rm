@@ -4,8 +4,9 @@
 Arquivo: `/CasosDeTeste/login-case-teste.md`
 
 | ID | Cenário | Pré-condições | Passos | Resultado Esperado | Resultado Obtido | Prioridade |
-| Entrar na tela home | Não cadastrado | Alta |
-| TC00001 | Realizar login | Login Sucesso | 1. Passo 
+| --- | --- | --- | --- | --- | --- | --- |
+| TC00003 | Realizar login | massa de teste e ambiente| 5. Passo | login sucesso | massa de teste não cadastrada | Alta | 
+
 ### Padrão BDD
 
 Funcionalidade: Login

@@ -1,11 +1,11 @@
 
 # Template de Caso de Teste
 
-Arquivo: `/CasosDeTeste/login-case-teste.md`
+Arquivo: `/CasosDeTeste/login-case-teste-negativo.md`
 
 | ID | Cenário | Pré-condições | Passos | Resultado Esperado | Resultado Obtido | Prioridade |
-| | Não logar | Não logar | Alta |
-| TC00001 | Não logar | Login invalido | 1. Passo 
+| --- | --- | --- | --- | --- | --- | --- |
+| TC00002 | Não entrar | Login falhar | 1. Passo | Não logar | Não logou | Alta |
 
 ### Padrão BDD
 
