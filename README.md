@@ -30,7 +30,7 @@ O tempo de 3 dias seria comprometido caso fosse necessário instalar, configurar
 
 Com mais tempo, seria totalmente viável configurar e entregar scripts automatizados com Cypress, e estou disposto a demonstrar isso em etapas futuras do processo seletivo.
 
-📋 Cenários Testados
+Cenários Testados
 Cada cenário foi descrito com:
 
 Pré-condições
@@ -53,7 +53,7 @@ Comportamento ao inserir dados inválidos
 
 Fluxo de edição e deleção de registros
 
-💬 Considerações Finais
+Considerações Finais
 Optei por priorizar a qualidade da validação funcional dentro do prazo proposto, assegurando a entrega de uma análise crítica dos fluxos, com documentação visual clara, ao invés de investir tempo na configuração de automação do zero com uma stack nova para mim.
 
 Estou 100% aberto e motivado para discutir essa decisão e, se desejarem, posso posteriormente apresentar a automação configurada.
