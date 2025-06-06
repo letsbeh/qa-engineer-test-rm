@@ -4,8 +4,7 @@
 Arquivo: `/CasosDeTeste/login-case-teste.md`
 
 | ID | Cenário | Pré-condições | Passos | Resultado Esperado | Resultado Obtido | Prioridade |
-| --- | --- | --- | --- | --- | --- | --- |
-| TC00001 | Não logar | Login invalido | 1. Passo 
+| TC00001 | Não logar | Login invalido | 1. Passo | Não logar | Não logar | Alta |
 
 ### Padrão BDD
 

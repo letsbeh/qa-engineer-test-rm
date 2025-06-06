@@ -4,8 +4,7 @@
 Arquivo: `/CasosDeTeste/esque-senh-case-teste.md`
 
 | ID | Cenário | Pré-condições | Passos | Resultado Esperado | Resultado Obtido | Prioridade |
-| --- | --- | --- | --- | --- | --- | --- |
-| TC00001 | Realizar troca de senha | Trocar a senha com sucesso | 1. Passo 
+| TC00001 | Realizar troca de senha | Trocar a senha com sucesso | 1. Passo | Realizar troca de senha | E-mail não encontrado | Alta |
 
 ### Padrão BDD
 
