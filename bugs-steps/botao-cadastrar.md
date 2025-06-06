@@ -23,7 +23,7 @@ Atualmente não está apresentando o botão de cadastrar
 Deveria apresentar o botão de cadastrar para que o usuário tenha o acesso 
 
 **Evidência:**
-![evidência do bug para](image.png)
+![evidência do bug para](bugs-steps/evidencias-bugs/image.png)
 
 
 **Hipótese Técnica:**

@@ -22,16 +22,16 @@ Descreva o que o sistema está fazendo incorretamente
 Descreva o comportamento correto esperado
 
 **Evidência:**
-![evidência do e-mail dizendo que ia chegar senha temporaria](image-1.png)
+![evidência do e-mail dizendo que ia chegar senha temporaria](bugs-steps/evidencias-bugs/image-1.png)
 Link, Curl ,print ou vídeo (se aplicável)
 
 **Hipótese Técnica:**
 
 **Ambiente**:
-
+QA
 **Versão:**
-
+v3.1.1
 **Sistema Operacional:**
-
+W-10
 **Navegador:**
-'
+Chrome
